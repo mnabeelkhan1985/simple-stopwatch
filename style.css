@@ -1,0 +1,37 @@
+/* CSS Document */
+body{
+	background-color:#FFF;
+}
+#container{
+	background:#EAEAE0;
+	width:300px;
+	border:1px solid #666;
+	margin:50px auto;
+	padding:5px;
+	overflow:hidden;
+}
+
+#output{
+	background:#CCC;
+	width:150px;
+	height:40px;
+	margin:30px auto;
+	font-size:22px;
+	font-family:Verdana, Geneva, sans-serif;
+	text-align:center;
+	color:#E60000;
+	border:1px solid #333;
+	font-weight:bold;
+}
+#controls{
+	width:150;
+	margin:5px auto;
+}
+
+.button{
+	width:70px;
+	background:#506FA9;
+}
+.button:hover{
+	background:#5959FF;
+}
